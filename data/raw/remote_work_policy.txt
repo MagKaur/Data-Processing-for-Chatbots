@@ -1,0 +1,20 @@
+Title: Remote Work Policy
+Owner: HR Department
+Version: 1.0
+Classification: Internal
+
+Section: General Rules
+
+Employees may work remotely after manager approval. Remote work arrangements should support productivity and collaboration. Employees must remain available during agreed working hours.
+
+Section: Communication
+
+Remote employees must regularly attend meetings and respond to messages in a timely manner. Team collaboration tools should be used for daily communication.
+
+Section: Security
+
+Employees must use company devices and connect through the corporate VPN. Confidential information must not be stored on personal devices.
+
+Section: Workplace Requirements
+
+Employees are responsible for maintaining a safe and professional working environment. Company equipment should be protected from unauthorized access.

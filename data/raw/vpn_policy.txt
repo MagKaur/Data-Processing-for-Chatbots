@@ -1,0 +1,20 @@
+Title: VPN Usage Policy
+Owner: IT Department
+Version: 1.0
+Classification: Internal
+
+Section: VPN Access
+
+Employees working remotely must connect through the company VPN before accessing internal resources.
+
+Section: Authentication
+
+Multi-factor authentication is required for VPN access. Credentials must never be shared.
+
+Section: Monitoring
+
+VPN activity may be monitored to ensure compliance with security requirements.
+
+Section: Remote Security
+
+Users should avoid connecting through public and unsecured wireless networks whenever possible.

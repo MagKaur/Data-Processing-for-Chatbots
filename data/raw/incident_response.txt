@@ -1,0 +1,20 @@
+Title: Incident Response Procedure
+Owner: IT Security Team
+Version: 1.0
+Classification: Confidential
+
+Section: Incident Identification
+
+Employees should recognize and report suspicious activities, malware infections, phishing attempts, or unauthorized access.
+
+Section: Immediate Actions
+
+After identifying a security incident, employees should disconnect affected devices from the network and notify the IT Security Team.
+
+Section: Investigation
+
+The security team investigates incidents, documents findings, and implements corrective actions to prevent recurrence.
+
+Section: Recovery
+
+Systems should be restored according to approved recovery procedures and validated before returning to production.

@@ -1,0 +1,20 @@
+Title: HR Policy
+Owner: HR Department
+Version: 1.0
+Classification: Internal
+
+Section: Working Hours
+
+Employees are expected to work eight hours per day and maintain regular communication with their managers. Flexible schedules may be approved depending on business needs and team requirements. Attendance should be recorded in the company's time tracking system.
+
+Section: Leave Requests
+
+Annual leave requests should be submitted through the HR system at least two weeks before the planned absence. Emergency leave may be approved by direct managers. Sick leave should be reported as soon as possible.
+
+Section: Employee Conduct
+
+Employees are expected to follow company values, maintain professionalism, and respect workplace diversity. Harassment, discrimination, and inappropriate behavior are prohibited.
+
+Section: Performance Reviews
+
+Performance evaluations are conducted twice per year. Managers provide feedback regarding achievements, development opportunities, and future objectives.

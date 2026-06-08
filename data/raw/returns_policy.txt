@@ -1,0 +1,20 @@
+Title: Returns Policy
+Owner: Customer Service Department
+Version: 1.0
+Classification: Public
+
+Section: Return Eligibility
+
+Products may be returned within thirty days of purchase if they are unused and in original condition.
+
+Section: Refund Process
+
+Refunds are processed after returned products have been inspected. Processing may take up to seven business days.
+
+Section: Exceptions
+
+Customized products and digital goods are generally not eligible for refunds unless required by law.
+
+Section: Return Shipping
+
+Customers may be responsible for return shipping costs unless the product is defective or incorrectly delivered.

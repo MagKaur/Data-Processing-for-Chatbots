@@ -1,0 +1,20 @@
+Title: Employee Onboarding Guide
+Owner: HR Department
+Version: 1.0
+Classification: Internal
+
+Section: First Day
+
+New employees receive company equipment, access credentials, and an introduction to company policies.
+
+Section: Training
+
+Employees are required to complete mandatory training related to security, compliance, and workplace conduct.
+
+Section: Team Integration
+
+Managers are responsible for introducing new employees to their teams and assigning onboarding tasks.
+
+Section: Initial Objectives
+
+New employees should review their role expectations and establish short-term goals with their manager.

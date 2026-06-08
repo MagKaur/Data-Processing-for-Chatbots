@@ -1,0 +1,20 @@
+Title: IT Security Policy
+Owner: IT Department
+Version: 1.0
+Classification: Confidential
+
+Section: Password Management
+
+Passwords must contain at least twelve characters and include uppercase letters, lowercase letters, numbers, and special symbols. Password sharing is strictly prohibited.
+
+Section: Device Security
+
+All company laptops must use disk encryption and endpoint protection software. Operating systems should be updated regularly.
+
+Section: Network Security
+
+Employees should only use approved network services. Unauthorized software installations are not allowed.
+
+Section: Incident Reporting
+
+Employees must immediately report suspected security incidents to the IT Security Team. Delayed reporting may increase business risk.

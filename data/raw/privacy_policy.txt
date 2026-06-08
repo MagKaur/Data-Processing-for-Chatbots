@@ -1,0 +1,20 @@
+Title: Privacy Policy
+Owner: Compliance Department
+Version: 1.0
+Classification: Confidential
+
+Section: Personal Data Processing
+
+Personal data must be processed lawfully, fairly, and transparently. Data collection should be limited to information required for business purposes.
+
+Section: Data Subject Rights
+
+Individuals have the right to access, correct, and delete their personal information where applicable under regulations.
+
+Section: GDPR Compliance
+
+The company follows GDPR requirements and maintains records of processing activities. Personal data breaches must be reported according to legal obligations.
+
+Section: Data Minimization
+
+Only necessary personal information should be collected and retained. Excessive collection of personal data is prohibited.

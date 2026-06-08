@@ -1,0 +1,20 @@
+Title: Data Retention Policy
+Owner: Compliance Department
+Version: 1.0
+Classification: Internal
+
+Section: Retention Periods
+
+Business records should be retained according to legal and operational requirements. Different categories of information may have different retention periods.
+
+Section: Data Disposal
+
+Data that is no longer required should be securely deleted or archived. Disposal processes must be documented.
+
+Section: Compliance Monitoring
+
+Retention procedures are periodically reviewed to ensure compliance with internal and external requirements.
+
+Section: Record Ownership
+
+Departments are responsible for maintaining records and ensuring proper retention schedules are followed.

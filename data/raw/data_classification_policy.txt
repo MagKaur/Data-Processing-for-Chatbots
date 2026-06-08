@@ -1,0 +1,20 @@
+Title: Data Classification Policy
+Owner: Compliance Department
+Version: 1.0
+Classification: Internal
+
+Section: Classification Levels
+
+Information is classified as Public, Internal, Confidential, or Restricted depending on sensitivity.
+
+Section: Handling Requirements
+
+Confidential information must be protected from unauthorized disclosure and stored securely.
+
+Section: Responsibilities
+
+Employees are responsible for handling information according to its assigned classification level.
+
+Section: Review Process
+
+Data classifications should be reviewed periodically to ensure that protection measures remain appropriate.

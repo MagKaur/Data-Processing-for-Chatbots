@@ -1,0 +1,20 @@
+Title: Access Control Policy
+Owner: IT Department
+Version: 1.0
+Classification: Confidential
+
+Section: User Access
+
+Access to systems is granted according to business responsibilities and the principle of least privilege.
+
+Section: Confidential Documents
+
+Only authorized employees may access confidential documents. Access permissions must be approved by management.
+
+Section: Account Reviews
+
+User accounts and permissions are reviewed regularly to ensure appropriate access levels.
+
+Section: Access Revocation
+
+When employees leave the company, their access rights must be removed immediately.
