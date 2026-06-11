@@ -1,0 +1,157 @@
+strategy,chunk_id,document_id,source_file,title,owner,version,classification,chunk_number,chunk_text,chunk_length,processed_at
+structure,structure_access_control_policy_chunk_1,access_control_policy,access_control_policy.txt,Access Control Policy,IT Department,1.0,Confidential,1,"Section: User Access
+
+Access to systems is granted according to business responsibilities and the principle of least privilege.",127,2026-06-11 17:19:44
+structure,structure_access_control_policy_chunk_2,access_control_policy,access_control_policy.txt,Access Control Policy,IT Department,1.0,Confidential,2,"Section: Confidential Documents
+
+Only authorized employees may access confidential documents. Access permissions must be approved by management.",144,2026-06-11 17:19:44
+structure,structure_access_control_policy_chunk_3,access_control_policy,access_control_policy.txt,Access Control Policy,IT Department,1.0,Confidential,3,"Section: Account Reviews
+
+User accounts and permissions are reviewed regularly to ensure appropriate access levels.",115,2026-06-11 17:19:44
+structure,structure_access_control_policy_chunk_4,access_control_policy,access_control_policy.txt,Access Control Policy,IT Department,1.0,Confidential,4,"Section: Access Revocation
+
+When employees leave the company, their access rights must be removed immediately.",110,2026-06-11 17:19:44
+structure,structure_customer_faq_chunk_1,customer_faq,customer_faq.txt,Customer FAQ,Customer Service Department,1.0,Public,1,"Section: Account Creation
+
+Customers can create an account using their email address and a secure password. Verification emails are sent automatically.",151,2026-06-11 17:19:44
+structure,structure_customer_faq_chunk_2,customer_faq,customer_faq.txt,Customer FAQ,Customer Service Department,1.0,Public,2,"Section: Order Tracking
+
+Order status can be tracked through the customer portal. Tracking information is updated regularly.",124,2026-06-11 17:19:44
+structure,structure_customer_faq_chunk_3,customer_faq,customer_faq.txt,Customer FAQ,Customer Service Department,1.0,Public,3,"Section: Contact Support
+
+Customers may contact support through email, phone, or online chat. Response times depend on request complexity.",138,2026-06-11 17:19:44
+structure,structure_customer_faq_chunk_4,customer_faq,customer_faq.txt,Customer FAQ,Customer Service Department,1.0,Public,4,"Section: Password Reset
+
+Users can reset forgotten passwords using the account recovery process available on the website.",121,2026-06-11 17:19:44
+structure,structure_customer_support_procedures_chunk_1,customer_support_procedures,customer_support_procedures.txt,Customer Support Procedures,Customer Service Department,1.0,Internal,1,"Section: Ticket Management
+
+All customer inquiries should be recorded in the ticketing system. Tickets must be categorized and prioritized based on urgency.",156,2026-06-11 17:19:44
+structure,structure_customer_support_procedures_chunk_2,customer_support_procedures,customer_support_procedures.txt,Customer Support Procedures,Customer Service Department,1.0,Internal,2,"Section: Response Times
+
+Support teams should acknowledge customer requests within one business day. Critical issues should be escalated immediately.",149,2026-06-11 17:19:44
+structure,structure_customer_support_procedures_chunk_3,customer_support_procedures,customer_support_procedures.txt,Customer Support Procedures,Customer Service Department,1.0,Internal,3,"Section: Escalation Process
+
+Complex technical issues should be transferred to specialized teams when first-level support cannot resolve them.",142,2026-06-11 17:19:44
+structure,structure_customer_support_procedures_chunk_4,customer_support_procedures,customer_support_procedures.txt,Customer Support Procedures,Customer Service Department,1.0,Internal,4,"Section: Customer Satisfaction
+
+Customer feedback should be collected and reviewed regularly to improve service quality and operational efficiency.",147,2026-06-11 17:19:44
+structure,structure_data_classification_policy_chunk_1,data_classification_policy,data_classification_policy.txt,Data Classification Policy,Compliance Department,1.0,Internal,1,"Section: Classification Levels
+
+Information is classified as Public, Internal, Confidential, or Restricted depending on sensitivity.",132,2026-06-11 17:19:44
+structure,structure_data_classification_policy_chunk_2,data_classification_policy,data_classification_policy.txt,Data Classification Policy,Compliance Department,1.0,Internal,2,"Section: Handling Requirements
+
+Confidential information must be protected from unauthorized disclosure and stored securely.",124,2026-06-11 17:19:44
+structure,structure_data_classification_policy_chunk_3,data_classification_policy,data_classification_policy.txt,Data Classification Policy,Compliance Department,1.0,Internal,3,"Section: Responsibilities
+
+Employees are responsible for handling information according to its assigned classification level.",125,2026-06-11 17:19:44
+structure,structure_data_classification_policy_chunk_4,data_classification_policy,data_classification_policy.txt,Data Classification Policy,Compliance Department,1.0,Internal,4,"Section: Review Process
+
+Data classifications should be reviewed periodically to ensure that protection measures remain appropriate.",132,2026-06-11 17:19:44
+structure,structure_data_retention_policy_chunk_1,data_retention_policy,data_retention_policy.txt,Data Retention Policy,Compliance Department,1.0,Internal,1,"Section: Retention Periods
+
+Business records should be retained according to legal and operational requirements. Different categories of information may have different retention periods.",186,2026-06-11 17:19:44
+structure,structure_data_retention_policy_chunk_2,data_retention_policy,data_retention_policy.txt,Data Retention Policy,Compliance Department,1.0,Internal,2,"Section: Data Disposal
+
+Data that is no longer required should be securely deleted or archived. Disposal processes must be documented.",134,2026-06-11 17:19:44
+structure,structure_data_retention_policy_chunk_3,data_retention_policy,data_retention_policy.txt,Data Retention Policy,Compliance Department,1.0,Internal,3,"Section: Compliance Monitoring
+
+Retention procedures are periodically reviewed to ensure compliance with internal and external requirements.",140,2026-06-11 17:19:44
+structure,structure_data_retention_policy_chunk_4,data_retention_policy,data_retention_policy.txt,Data Retention Policy,Compliance Department,1.0,Internal,4,"Section: Record Ownership
+
+Departments are responsible for maintaining records and ensuring proper retention schedules are followed.",132,2026-06-11 17:19:44
+structure,structure_hr_policy_chunk_1,hr_policy,hr_policy.txt,HR Policy,HR Department,1.0,Internal,1,"Section: Working Hours
+
+Employees are expected to work eight hours per day and maintain regular communication with their managers. Flexible schedules may be approved depending on business needs and team requirements. Attendance should be recorded in the company's time tracking system.",285,2026-06-11 17:19:44
+structure,structure_hr_policy_chunk_2,hr_policy,hr_policy.txt,HR Policy,HR Department,1.0,Internal,2,"Section: Leave Requests
+
+Annual leave requests should be submitted through the HR system at least two weeks before the planned absence. Emergency leave may be approved by direct managers. Sick leave should be reported as soon as possible.",238,2026-06-11 17:19:44
+structure,structure_hr_policy_chunk_3,hr_policy,hr_policy.txt,HR Policy,HR Department,1.0,Internal,3,"Section: Employee Conduct
+
+Employees are expected to follow company values, maintain professionalism, and respect workplace diversity. Harassment, discrimination, and inappropriate behavior are prohibited.",205,2026-06-11 17:19:44
+structure,structure_hr_policy_chunk_4,hr_policy,hr_policy.txt,HR Policy,HR Department,1.0,Internal,4,"Section: Performance Reviews
+
+Performance evaluations are conducted twice per year. Managers provide feedback regarding achievements, development opportunities, and future objectives.",183,2026-06-11 17:19:44
+structure,structure_incident_response_chunk_1,incident_response,incident_response.txt,Incident Response Procedure,IT Security Team,1.0,Confidential,1,"Section: Incident Identification
+
+Employees should recognize and report suspicious activities, malware infections, phishing attempts, or unauthorized access.",157,2026-06-11 17:19:44
+structure,structure_incident_response_chunk_2,incident_response,incident_response.txt,Incident Response Procedure,IT Security Team,1.0,Confidential,2,"Section: Immediate Actions
+
+After identifying a security incident, employees should disconnect affected devices from the network and notify the IT Security Team.",161,2026-06-11 17:19:44
+structure,structure_incident_response_chunk_3,incident_response,incident_response.txt,Incident Response Procedure,IT Security Team,1.0,Confidential,3,"Section: Investigation
+
+The security team investigates incidents, documents findings, and implements corrective actions to prevent recurrence.",142,2026-06-11 17:19:44
+structure,structure_incident_response_chunk_4,incident_response,incident_response.txt,Incident Response Procedure,IT Security Team,1.0,Confidential,4,"Section: Recovery
+
+Systems should be restored according to approved recovery procedures and validated before returning to production.",133,2026-06-11 17:19:44
+structure,structure_it_security_policy_chunk_1,it_security_policy,it_security_policy.txt,IT Security Policy,IT Department,1.0,Confidential,1,"Section: Password Management
+
+Passwords must contain at least twelve characters and include uppercase letters, lowercase letters, numbers, and special symbols. Password sharing is strictly prohibited.",200,2026-06-11 17:19:44
+structure,structure_it_security_policy_chunk_2,it_security_policy,it_security_policy.txt,IT Security Policy,IT Department,1.0,Confidential,2,"Section: Device Security
+
+All company laptops must use disk encryption and endpoint protection software. Operating systems should be updated regularly.",151,2026-06-11 17:19:44
+structure,structure_it_security_policy_chunk_3,it_security_policy,it_security_policy.txt,IT Security Policy,IT Department,1.0,Confidential,3,"Section: Network Security
+
+Employees should only use approved network services. Unauthorized software installations are not allowed.",132,2026-06-11 17:19:44
+structure,structure_it_security_policy_chunk_4,it_security_policy,it_security_policy.txt,IT Security Policy,IT Department,1.0,Confidential,4,"Section: Incident Reporting
+
+Employees must immediately report suspected security incidents to the IT Security Team. Delayed reporting may increase business risk.",162,2026-06-11 17:19:44
+structure,structure_onboarding_guide_chunk_1,onboarding_guide,onboarding_guide.txt,Employee Onboarding Guide,HR Department,1.0,Internal,1,"Section: First Day
+
+New employees receive company equipment, access credentials, and an introduction to company policies.",121,2026-06-11 17:19:44
+structure,structure_onboarding_guide_chunk_2,onboarding_guide,onboarding_guide.txt,Employee Onboarding Guide,HR Department,1.0,Internal,2,"Section: Training
+
+Employees are required to complete mandatory training related to security, compliance, and workplace conduct.",128,2026-06-11 17:19:44
+structure,structure_onboarding_guide_chunk_3,onboarding_guide,onboarding_guide.txt,Employee Onboarding Guide,HR Department,1.0,Internal,3,"Section: Team Integration
+
+Managers are responsible for introducing new employees to their teams and assigning onboarding tasks.",128,2026-06-11 17:19:44
+structure,structure_onboarding_guide_chunk_4,onboarding_guide,onboarding_guide.txt,Employee Onboarding Guide,HR Department,1.0,Internal,4,"Section: Initial Objectives
+
+New employees should review their role expectations and establish short-term goals with their manager.",131,2026-06-11 17:19:44
+structure,structure_privacy_policy_chunk_1,privacy_policy,privacy_policy.txt,Privacy Policy,Compliance Department,1.0,Confidential,1,"Section: Personal Data Processing
+
+Personal data must be processed lawfully, fairly, and transparently. Data collection should be limited to information required for business purposes.",184,2026-06-11 17:19:44
+structure,structure_privacy_policy_chunk_2,privacy_policy,privacy_policy.txt,Privacy Policy,Compliance Department,1.0,Confidential,2,"Section: Data Subject Rights
+
+Individuals have the right to access, correct, and delete their personal information where applicable under regulations.",150,2026-06-11 17:19:44
+structure,structure_privacy_policy_chunk_3,privacy_policy,privacy_policy.txt,Privacy Policy,Compliance Department,1.0,Confidential,3,"Section: GDPR Compliance
+
+The company follows GDPR requirements and maintains records of processing activities. Personal data breaches must be reported according to legal obligations.",183,2026-06-11 17:19:44
+structure,structure_privacy_policy_chunk_4,privacy_policy,privacy_policy.txt,Privacy Policy,Compliance Department,1.0,Confidential,4,"Section: Data Minimization
+
+Only necessary personal information should be collected and retained. Excessive collection of personal data is prohibited.",150,2026-06-11 17:19:44
+structure,structure_remote_work_policy_chunk_1,remote_work_policy,remote_work_policy.txt,Remote Work Policy,HR Department,1.0,Internal,1,"Section: General Rules
+
+Employees may work remotely after manager approval. Remote work arrangements should support productivity and collaboration. Employees must remain available during agreed working hours.",208,2026-06-11 17:19:44
+structure,structure_remote_work_policy_chunk_2,remote_work_policy,remote_work_policy.txt,Remote Work Policy,HR Department,1.0,Internal,2,"Section: Communication
+
+Remote employees must regularly attend meetings and respond to messages in a timely manner. Team collaboration tools should be used for daily communication.",180,2026-06-11 17:19:44
+structure,structure_remote_work_policy_chunk_3,remote_work_policy,remote_work_policy.txt,Remote Work Policy,HR Department,1.0,Internal,3,"Section: Security
+
+Employees must use company devices and connect through the corporate VPN. Confidential information must not be stored on personal devices.",157,2026-06-11 17:19:44
+structure,structure_remote_work_policy_chunk_4,remote_work_policy,remote_work_policy.txt,Remote Work Policy,HR Department,1.0,Internal,4,"Section: Workplace Requirements
+
+Employees are responsible for maintaining a safe and professional working environment. Company equipment should be protected from unauthorized access.",183,2026-06-11 17:19:44
+structure,structure_returns_policy_chunk_1,returns_policy,returns_policy.txt,Returns Policy,Customer Service Department,1.0,Public,1,"Section: Return Eligibility
+
+Products may be returned within thirty days of purchase if they are unused and in original condition.",130,2026-06-11 17:19:44
+structure,structure_returns_policy_chunk_2,returns_policy,returns_policy.txt,Returns Policy,Customer Service Department,1.0,Public,2,"Section: Refund Process
+
+Refunds are processed after returned products have been inspected. Processing may take up to seven business days.",138,2026-06-11 17:19:44
+structure,structure_returns_policy_chunk_3,returns_policy,returns_policy.txt,Returns Policy,Customer Service Department,1.0,Public,3,"Section: Exceptions
+
+Customized products and digital goods are generally not eligible for refunds unless required by law.",121,2026-06-11 17:19:44
+structure,structure_returns_policy_chunk_4,returns_policy,returns_policy.txt,Returns Policy,Customer Service Department,1.0,Public,4,"Section: Return Shipping
+
+Customers may be responsible for return shipping costs unless the product is defective or incorrectly delivered.",138,2026-06-11 17:19:44
+structure,structure_vpn_policy_chunk_1,vpn_policy,vpn_policy.txt,VPN Usage Policy,IT Department,1.0,Internal,1,"Section: VPN Access
+
+Employees working remotely must connect through the company VPN before accessing internal resources.",121,2026-06-11 17:19:44
+structure,structure_vpn_policy_chunk_2,vpn_policy,vpn_policy.txt,VPN Usage Policy,IT Department,1.0,Internal,2,"Section: Authentication
+
+Multi-factor authentication is required for VPN access. Credentials must never be shared.",114,2026-06-11 17:19:44
+structure,structure_vpn_policy_chunk_3,vpn_policy,vpn_policy.txt,VPN Usage Policy,IT Department,1.0,Internal,3,"Section: Monitoring
+
+VPN activity may be monitored to ensure compliance with security requirements.",99,2026-06-11 17:19:44
+structure,structure_vpn_policy_chunk_4,vpn_policy,vpn_policy.txt,VPN Usage Policy,IT Department,1.0,Internal,4,"Section: Remote Security
+
+Users should avoid connecting through public and unsecured wireless networks whenever possible.",121,2026-06-11 17:19:44

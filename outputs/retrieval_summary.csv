@@ -1,0 +1,4 @@
+strategy,total_questions,correct_answers,avg_similarity_score,retrieval_accuracy_percent
+fixed,8,6,0.3947,75.0
+overlap,8,8,0.399,100.0
+structure,8,8,0.4653,100.0

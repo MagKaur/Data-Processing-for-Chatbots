@@ -1,0 +1,4 @@
+strategy,number_of_chunks,average_chunk_length,duplicate_chunks,storage_size_kb,processing_time_seconds,metadata_completeness_percent
+fixed,26,344.08,0,12.93,0.0002,100.0
+overlap,28,369.93,0,14.69,0.0001,100.0
+structure,52,149.29,0,16.33,0.0003,100.0
